@@ -265,6 +265,42 @@ header nav a {
     transition: opacity 0.3s;
 }
 
+/*アフィリエイト*/
+.affiliate-section {
+    padding: 70px 20px;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+.affiliate-section h2 {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    margin-bottom: 10px;
+}
+
+.affiliate-section > p {
+    color: #777;
+    font-size: 13px;
+}
+
+.affiliate-banner {
+    margin: 30px auto 10px;
+    max-width: 300px;
+}
+
+.affiliate-banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.affiliate-note {
+    font-size: 11px !important;
+    color: #999 !important;
+}
+
+
 /*media*/
 @media (max-width: 768px) {
     /*header*/
