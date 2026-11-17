@@ -285,13 +285,16 @@ header nav a {
 }
 
 .affiliate-banner {
+    display: flex;
+    justify-content: center;
+    width: 100%;
     margin: 30px auto 10px;
-    max-width: 300px;
 }
 
 .affiliate-banner img {
     display: block;
-    width: 100%;
+    width: 300px;
+    max-width: 100%;
     height: auto;
 }
 
