@@ -303,6 +303,13 @@ header nav a {
     color: #999 !important;
 }
 
+/*==========
+    footer
+==========*/
+
+footer {
+    text-align: center;
+}
 
 /*media*/
 @media (max-width: 768px) {
